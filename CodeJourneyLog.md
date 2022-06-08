@@ -46,3 +46,27 @@ Link to Work:
 
 **Thoughts**: I am throughly enjoying the Powershell book as it is impacting my work life currently. The ability to retrieve information automatically without using a GUI and piping it to a file format in which I can give to other IT individuals and management. I am still dreading learning the website management that is required for updating our work website. 
 
+### Day 6: June 7th, 2022
+
+**Today's Progress**: I finished chapter 9 in Learn Powershell in a Month of Lunches. It went over how they would tackle a problem using the following steps:
+
+1) Use Get-Command to see if there is a command for the task that is presented
+2) Use Find-Module to see if there is a module that will assist with the task
+3) Use Help files about the cmdlets and modules that are found
+4) Test in a virtual environment to see if commands work without causing issues.
+5) Check Object Type when passing data to pipeline.
+
+**Thoughts**: This was a good chapter as it showed the process of how to tackle a given IT task using only powershell
+
+### Day 7: June 8th, 2022
+
+**Today's Progress**: I finished chapter 10 in Learn Powershell in a Month of Lunches. The chapter focused on how to use the pipeline correctly. There are two methods of piping data from one cmdlet to another. The methods are below:
+
+1) ByValue
+2) ByPropertyName
+
+You can use a hashtable with Select-Object that will assist with matching given properties with the additional cmdlets.
+
+**Thoughts**: This chapter somewhat difficult to understand at first. I had to keep looking at the examples in the book and follow along. The lab exercies at the end made me think if the commands that were given would complete correctly. 
+
+
