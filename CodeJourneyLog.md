@@ -67,6 +67,6 @@ Link to Work:
 
 You can use a hashtable with Select-Object that will assist with matching given properties with the additional cmdlets.
 
-**Thoughts**: This chapter somewhat difficult to understand at first. I had to keep looking at the examples in the book and follow along. The lab exercies at the end made me think if the commands that were given would complete correctly. 
+**Thoughts**: This chapter was somewhat difficult to understand at first. I had to keep looking at the examples in the book and follow along. The lab exercies at the end made me think if the commands that were given would complete correctly. 
 
 
