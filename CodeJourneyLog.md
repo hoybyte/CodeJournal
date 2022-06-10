@@ -1,4 +1,5 @@
 # Code Journey - Log
+## By: Chris Krygier
 
 ### Day 0: April 29, 2022
 
