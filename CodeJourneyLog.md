@@ -69,4 +69,16 @@ You can use a hashtable with Select-Object that will assist with matching given 
 
 **Thoughts**: This chapter was somewhat difficult to understand at first. I had to keep looking at the examples in the book and follow along. The lab exercies at the end made me think if the commands that were given would complete correctly. 
 
+### Day 8: June 9th, 2022
 
+**Today's Progres**: I finished chapter 11 in Learn Powershell in a MOnth of Lunches. The chapter focused on formatting objects. We learned the following about the following cmdlets: Format-Table, Format-List, and Format-Wide. Additionally, a scripter will always put the format commands on the right as the cmdlets will create formatting objects which will feed into Out-File, Out-Default, Out-Host.
+
+**Thoughts**: I liked the chapter and the exercies. I learned how to use the name and expression command when talking about certain properties. Such as converting Working Set memory to MB or GB instead of bytes. 
+@{n='WorkingSetMB'; expression={$_.WorkingSet / 1MB -as [int]}}
+
+### Day 9: June 10th, 2022
+
+**Today's Progress**:
+
+
+**Thoughts**:
