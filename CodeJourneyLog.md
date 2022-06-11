@@ -79,7 +79,6 @@ You can use a hashtable with Select-Object that will assist with matching given 
 
 ### Day 9: June 10th, 2022
 
-**Today's Progress**:
+**Today's Progress**: I finished chapter12 in Learn Powershell in a Month of Lunches. The chapter was focused on filtering objects from the pipeline. There are two ways in which you can filter data from powershell. You can use the Where-Object or Select-Object cmdlets. I finished all the exercises using the Where-object method. Some of the examples included only list files that are larger than 5MB in size in current directory. Additionally, it asked for all files that have a lastwritetime of -7 days or greater. 
 
-
-**Thoughts**:
+**Thoughts**: I really enjoyed the chapter. I can see the benefit of using the filter options in my daily IT tasks. I plan on using some when I go back to work on Monday.
