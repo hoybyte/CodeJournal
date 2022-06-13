@@ -104,6 +104,6 @@ You can use a hashtable with Select-Object that will assist with matching given 
 
 ## Day 11: June 13th, 2022
 
-**Today's Progress**:
+**Today's Progress**: I finishd Chapter 15 in learn Powershell in a Month of Lunches. The chapter focused on how to work with many objects at one time. You can use the method classes of the CimInstance and CimClass if needed. Additionally, you can enumerate over the items using foreach-object cmdlet. Additionally, when working objects, please be mindful that the foreach-object cmdlet has a parameter named -Parallel that will run the tasks in parallel up to 5 commands at a time. 
 
-**Thoughts**:
+**Thoughts**: I liked the chapter. The -Parallel parameter is a game changer to speed up processes. 
