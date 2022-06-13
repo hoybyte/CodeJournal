@@ -82,3 +82,28 @@ You can use a hashtable with Select-Object that will assist with matching given 
 **Today's Progress**: I finished chapter12 in Learn Powershell in a Month of Lunches. The chapter was focused on filtering objects from the pipeline. There are two ways in which you can filter data from powershell. You can use the Where-Object or Select-Object cmdlets. I finished all the exercises using the Where-object method. Some of the examples included only list files that are larger than 5MB in size in current directory. Additionally, it asked for all files that have a lastwritetime of -7 days or greater. 
 
 **Thoughts**: I really enjoyed the chapter. I can see the benefit of using the filter options in my daily IT tasks. I plan on using some when I go back to work on Monday.
+
+### Day: 9: June 11th, 2022
+
+**Today's Progress**: I finished chapter 13 in Learn Powershell in a Month of Lunches. The chatper was focused on remoting to different workstations. You had two methods in which you can remote into a given workstation:
+
+1) Use WsMan if the workstation is Windows based; however, it will not work with non-Windows workstations
+2) Use Powershell Over SSH - This method is accepted by all versions after Powershell 7.1. 
+
+**Thoughts**: I liked the chapter has I performed remote powershell before as I always run Enable-PSremoting on my workstations at the office. I could not really test at home as I was not on the domain and it does require a difficult setup 
+
+### Day 10: June 12th, 2022
+
+**Today's Progress**: I finished Chapter 14 in Learn Powershell in a Month of Lunches. The chapter was focused on using background jobs. You had two types of Job to perform
+
+1) Start-Job is used if you have a long running command that will take some time to complete
+2) Start-ThreadJob is used if you have a command that will not need a lot of time to complete and use the current pwsh thread.
+
+**Thoughts**
+
+
+## Day 11: June 13th, 2022
+
+**Today's Progress**:
+
+**Thoughts**:
